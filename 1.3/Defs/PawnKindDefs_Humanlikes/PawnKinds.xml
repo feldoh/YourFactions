@@ -2,7 +2,7 @@
 <Defs>
 
 	<PawnKindDef Name="GenericPawnKindBase" Abstract="True">
-		<race>Human</race>
+		<race>YF_NearlyHuman</race>
 		<chemicalAddictionChance>0.05</chemicalAddictionChance>
 		<backstoryCryptosleepCommonality>0.05</backstoryCryptosleepCommonality>
 		<invNutrition>2.55</invNutrition>
