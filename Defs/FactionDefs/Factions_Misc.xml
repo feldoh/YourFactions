@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
 	<FactionDef ParentName="FactionBase" Name="GenericFactionBase" Abstract="True">
 		<pawnSingular>YF_Generic</pawnSingular>
 		<pawnsPlural>humans</pawnsPlural>
@@ -45,7 +44,6 @@
 				<commonality>0.05</commonality>
 			</li>
 		</backstoryFilters>
-		<geneticVariance>0.8</geneticVariance>
 		<caravanTraderKinds>
 			<li>Caravan_Outlander_BulkGoods</li>
 			<li>Caravan_Outlander_CombatSupplier</li>
@@ -178,6 +176,4 @@
 		<maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
 		<configurationListOrderPriority>20</configurationListOrderPriority>
 	</FactionDef>
-
-
 </Defs>

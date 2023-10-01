@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
-
   <RulePackDef>
     <defName>YF_NamerFactionGenericCivil</defName>
     <rulePack>
@@ -19,7 +17,7 @@
       </rulesStrings>
     </rulePack>
   </RulePackDef>
-  
+
   <RulePackDef>
     <defName>YF_NamerFactionGenericSettlement</defName>
     <rulePack>
@@ -28,6 +26,4 @@
       </rulesStrings>
     </rulePack>
   </RulePackDef>
-
-
 </Defs>
